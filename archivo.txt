@@ -1,2 +1,7 @@
 Cambio en main branch
 Resolviendo conflictos
+
+Cambio en feature branch
+Cambio adicional
+
+Conservando el contenido de las dos ramas
