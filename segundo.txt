@@ -1,1 +1,2 @@
 Segundo texto
+Modificando fichero segundo.txt
